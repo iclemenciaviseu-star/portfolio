@@ -1,35 +1,54 @@
-# Portfolio de Automacoes — Viseu Advogados
+# ⚡ Portfólio de Automações Jurídicas — Viseu Advogados
 
-Ferramentas de automacao juridica desenvolvidas pela Controladoria Digital.
+**Controladoria Digital | Ingrid Clemencia Santos**
 
-## 11 Projetos
+> Robôs que trabalham. Time que pensa.
 
-| # | Repositorio | Aplicacao | Valor Est. |
-|---|---|---|---|
-| 01 | [rpa-elaw-anima-master](https://github.com/iclemenciaviseu-star/rpa-elaw-anima-master) | Complemento de Cadastro Judicial — eLaw Anima | R$ 55k–100k |
-| 02 | [rpa-elaw-viseu](https://github.com/iclemenciaviseu-star/rpa-elaw-viseu) | Automacao Interna eLaw Viseu (4 modulos) | R$ 50k–90k |
-| 03 | [rpa-judicial-viseu](https://github.com/iclemenciaviseu-star/rpa-judicial-viseu) | Automacao Judicial Multiportal eProc+PJe (Chrome CDP) | R$ 60k–120k |
-| 04 | [Publicacoes](https://github.com/iclemenciaviseu-star/Publicacoes) | Suite Extensoes Chrome — OCR + Leitura eLaw/DJe | R$ 40k–80k |
-| 05 | [DistribuidorAtividades](https://github.com/iclemenciaviseu-star/DistribuidorAtividades) | Plataforma Kanban de Gestao de Tarefas | R$ 25k–45k |
-| 06 | [VerificacaoCadastro](https://github.com/iclemenciaviseu-star/VerificacaoCadastro) | Auditoria Automatizada de Cadastros | R$ 18k–30k |
-| 07 | [rpa-projects-viseu](https://github.com/iclemenciaviseu-star/rpa-projects-viseu) | Cadastro em Massa eLaw — Anima Civel | R$ 15k–25k |
-| 08 | [rpa-projects-viseu](https://github.com/iclemenciaviseu-star/rpa-projects-viseu) | Cadastro PROCON — Anima | R$ 12k–20k |
-| 09 | [rpa-projects-viseu](https://github.com/iclemenciaviseu-star/rpa-projects-viseu) | Cadastro PROCON Alta Performance — Nubank | R$ 15k–25k |
-| 10 | [rpa-projects-viseu](https://github.com/iclemenciaviseu-star/rpa-projects-viseu) | Cadastro PROCON Dual Mode + Revisao — Pandora | R$ 15k–25k |
-| 11 | [ComplementoCadastro](https://github.com/iclemenciaviseu-star/ComplementoCadastro) | Complementacao de Dados em Cadastros Existentes | R$ 8k–12k |
-
-## Valor Total Estimado do Portfolio
-
-**R$ 313.000 – R$ 572.000**
-
-## Analise Completa
-
-O arquivo `portfolio_automacoes_viseu_v2.docx` contem a analise detalhada de todos os projetos:
-- Descricao comercial aprofundada (problema resolvido, impacto operacional)
-- Stack tecnico e modulos-chave de cada projeto
-- Mockups visuais das interfaces
-- Estimativa de valor de mercado
+Coleção de automações RPA e ferramentas de IA construídas para o mercado jurídico — da extração de dados à publicação de peças, do cadastro em massa ao monitoramento de prazos.
 
 ---
-*Ingrid Clemencia Santos — Coordenadora da Controladoria Digital*
-*Viseu Advogados · Junho 2026*
+
+## 📦 Projetos
+
+| # | Projeto | Cliente | Stack | Repo |
+|---|---------|---------|-------|------|
+| 01 | 📂 Verificação de Cadastro | Eventim | Python · Flask · Playwright · eLaw | [Ver](https://github.com/iclemenciaviseu-star/VerificacaoCadastro) |
+| 02 | 🤖 RPA eLaw Ânima — Agendamentos | Ânima Educação | Python · Flask · Playwright · PrimeFaces | [Ver](https://github.com/iclemenciaviseu-star/rpa-elaw-anima-master) |
+| 03 | 🚗 BYD — Extrator eLaw para Planilha | BYD do Brasil | Python · Flask · Playwright · openpyxl | [Ver](https://github.com/iclemenciaviseu-star/byd-elaw-extrator) |
+| 04 | 📋 Cadastro em Massa eLaw/PROCON | Ânima Educação | Python · Flask · Playwright | [Ver](https://github.com/iclemenciaviseu-star/ComplementoCadastro) |
+| 05 | ⚖️ RPA Judicial — Peticionamento | Viseu Advogados | Python · Flask · Chrome CDP · PJe · eProc | [Ver](https://github.com/iclemenciaviseu-star/rpa-judicial-viseu) |
+| 06 | 📊 Distribuidor de Atividades | Viseu Advogados | Python · Flask · SQLite · SSE · SMTP | [Ver](https://github.com/iclemenciaviseu-star/DistribuidorAtividades) |
+| 07 | ⚙️ RPA eLaw Viseu — Prazos | Viseu Advogados | Python · Flask · Playwright · eLaw | [Ver](https://github.com/iclemenciaviseu-star/rpa-elaw-viseu) |
+| 08 | 📰 Agente de Publicações DJe + IA | Múltiplos | Chrome Extension · Tesseract OCR · IA | [Ver](https://github.com/iclemenciaviseu-star/Publicacoes) |
+
+---
+
+## 🛠️ Stack Comum
+
+```
+Python 3.11  ·  Flask  ·  Playwright  ·  eLaw (Elawio)  ·  PJe  ·  eProc SP
+Chrome CDP  ·  openpyxl  ·  SQLite  ·  Server-Sent Events  ·  SMTP
+Chrome Extension (Manifest V3)  ·  Tesseract OCR (WASM)
+```
+
+---
+
+## 📊 Resultados
+
+- **8** produtos em produção
+- **6** clientes atendidos (Ânima, BYD, Eventim, Viseu e outros)
+- **Centenas de horas/mês** economizadas pelo time
+- **2** portais judiciais automatizados (PJe TJRJ + eProc SP)
+
+---
+
+## 📄 Portfólio Completo
+
+O documento Word completo com screenshots, mockups das interfaces e descrição comercial está disponível mediante solicitação.
+
+---
+
+**Ingrid Clemencia Santos**  
+Coordenadora — Controladoria Digital  
+iclemencia@viseu.com.br  
+Viseu Advogados · 2026
